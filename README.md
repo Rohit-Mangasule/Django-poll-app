@@ -5,9 +5,6 @@ Django poll app is a full featured polling app. You have to register in this app
 <h1>Getting Started</h1>
 <p>These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.</p>
 
-<h2>Prerequisites</h2>
-<code>python== 3.5 or up and django==2.0 or up</code>
-
 <h2>Installing</h2>
 <pre>open terminal and type</pre>
 <code>git clone https://github.com/devmahmud/Django-poll-app.git</code><br><br>
